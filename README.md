@@ -1,6 +1,6 @@
 # Perceptron 
 
-O ancestral de tudo. O Perceptron é a unidade mais básica de uma rede neural — um único neurônio que recebe entradas, multiplica por pesos, soma e passa por uma função de ativação pra produzir uma saída. Antes do MLP, antes do deep learning, veio isso aqui.
+O ancestral de tudo. O Perceptron é a unidade mais básica de uma rede neural. Um único neurônio que recebe entradas, multiplica por pesos, soma e passa por uma função de ativação pra produzir uma saída. Antes do MLP, antes do deep learning, veio isso aqui.
 
 Exercício focado em entender o mecanismo mais fundamental do aprendizado de máquina baseado em redes neurais.
 
